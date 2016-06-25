@@ -199,7 +199,7 @@
 				37D2B37F1D1F03A3006D4104 /* CVCalendarViewAnimatorDelegate.swift */,
 			);
 			name = CVCalendar;
-			path = ../CVCalendar;
+			path = ../Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
